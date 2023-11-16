@@ -170,7 +170,7 @@ en-AU:
 # -------
 es: &DEFAULT_ES
   header:
-    title: ¡Bienvenido a nuestro Estudio!
+    title: ¡Bienvenido a Athenea Bar & Gaming Center!
     text: Es un placer conocerle
     button: Ver más
     buttonlink: "#servicios"
